@@ -1,2 +1,2 @@
-# Online-Bidding-Platform
-Online Bidding platform that is a full stack project based on dev-Ops pipeline 
+# Bidding-Platform
+A bidding platdform using Devops tools where user can post ads of its product and other users can bid on the product to buy it.
